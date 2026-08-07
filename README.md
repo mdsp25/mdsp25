@@ -20,7 +20,6 @@ Aqui estão as linguagens e tecnologias que estou estudando e utilizando nos meu
 > 🟧 **HTML5** | 🟦 **CSS3** | 🟨 **JavaScript** | ☕ **Java**
 
 ---
-
 ### 📊 Minhas Estatísticas no GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=mdsp25&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
