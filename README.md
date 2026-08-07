@@ -1,16 +1,35 @@
-## Hi there 👋
+# Olá, eu sou o Marcos Paiva! 👋
 
-<!--
-**mdsp25/mdsp25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Estudante de Engenharia de Software | Desenvolvedor em Formação
 
-Here are some ideas to get you started:
+Sou apaixonado por tecnologia e focado em resolução de problemas. Atualmente, dedico meu tempo construindo uma base sólida de conhecimento para me tornar um desenvolvedor completo, sempre em busca da minha próxima oportunidade no mercado de trabalho.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Sobre mim
+- ⏰ **Foco atual:** Me aprofundando em Front-end e Back-end.
+- 🧱 **O que estou construindo:** Projetos focados em responsividade e interfaces limpas.
+- 📍 **De onde sou:** Tubarão, SC - Brasil.
+- 🤝 **O que busco:** Minha primeira oportunidade profissional na área de tecnologia.
+
+---
+
+### 💻 Tecnologias e Ferramentas
+Aqui estão as linguagens e tecnologias que estou estudando e utilizando nos meus projetos:
+
+> 🟧 **HTML5** | 🟦 **CSS3** | 🟨 **JavaScript** | ☕ **Java**
+
+---
+
+### 📊 Minhas Estatísticas no GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdsp25&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsp25&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+---
+
+### 📫 Como me encontrar
+- 📧 **E-mail:** [marcosdesouzapaiva23@gmail.com](mailto:marcosdesouzapaiva23@gmail.com)
+- 💼 **LinkedIn:** [Acesse meu perfil](https://www.linkedin.com/in/marcos-de-souza-paiva-53500a364)
