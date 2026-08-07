@@ -23,10 +23,9 @@ Aqui estão as linguagens e tecnologias que estou estudando e utilizando nos meu
 
 ### 📊 Minhas Estatísticas no GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdsp25&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsp25&layout=compact&langs_count=7&theme=dark"/>
-</div>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=mdsp25&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsp25&layout=compact&langs_count=7&theme=dark)
 
 ---
 
